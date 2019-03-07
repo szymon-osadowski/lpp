@@ -1,0 +1,6 @@
+{
+  "index" : {
+    "controller" : "MainController",
+    "method": "index"
+  }
+}

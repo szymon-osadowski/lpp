@@ -1,0 +1,8 @@
+{
+  "db_source_dir" : "data/1315475.json",
+  "route_dir" : "src/Lpp/Config/routing.json",
+  "twig_cache_dir" : "cache",
+  "twig_view_dir" : "src/Lpp/view"
+}
+
+
